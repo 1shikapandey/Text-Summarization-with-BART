@@ -68,7 +68,3 @@ Contributions are welcome! Fork the repo, edit the notebook, and submit a pull r
 to improve summarization methods or add new evaluation metrics.
 </p>
 
-<h2>📜 License</h2>
-<p>
-This project is licensed under the <b>MIT License</b>.
-</p>
