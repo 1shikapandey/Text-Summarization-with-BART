@@ -61,10 +61,3 @@ ROUGE-L: 0.41
   <li>sentencepiece</li>
   <li>evaluate</li>
 </ul>
-
-<h2>🤝 Contributing</h2>
-<p>
-Contributions are welcome! Fork the repo, edit the notebook, and submit a pull request 
-to improve summarization methods or add new evaluation metrics.
-</p>
-
