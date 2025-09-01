@@ -16,12 +16,6 @@
   <li>Clean output formatting using Python’s <code>textwrap</code></li>
 </ul>
 
-<h2>▶️ Getting Started</h2>
-<p>
-Click below to open the notebook in Google Colab:
-</p>
-
-
 <h2>📂 Project Structure</h2>
 <pre>
 ├── Text_Summarization_BART.ipynb   # Main Google Colab Notebook
