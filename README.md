@@ -21,11 +21,6 @@
 Click below to open the notebook in Google Colab:
 </p>
 
-<p align="center">
-  <a href="[https://colab.research.google.com/github/your-username/your-repo/blob/main/Text_Summarization_BART.ipynb" target="_blank](https://colab.research.google.com/drive/1S-JCVhZGwu_DlnAHjxdcahBpivi-hp-V)">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-  </a>
-</p>
 
 <h2>📂 Project Structure</h2>
 <pre>
