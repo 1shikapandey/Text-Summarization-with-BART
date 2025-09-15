@@ -35,7 +35,7 @@ It enhances diagnostics, detects fraud, and personalizes learning, while raising
 ethical concerns around privacy, bias, and job displacement.
 </pre>
 
-<h2>📊 Evaluation</h2>
+<h2>Evaluation</h2>
 <p>Summaries are evaluated using <b>ROUGE</b> metrics:</p>
 <pre>
 ROUGE-1: 0.45
