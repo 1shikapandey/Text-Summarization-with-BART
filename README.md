@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>🚀 Features</h2>
+<h2>Features</h2>
 <ul>
   <li>Runs entirely in <b>Google Colab</b> (no local setup)</li>
   <li>Uses Hugging Face’s <code>transformers</code> for summarization</li>
