@@ -43,7 +43,7 @@ ROUGE-2: 0.29
 ROUGE-L: 0.41
 </pre>
 
-<h2>📦 Dependencies</h2>
+<h2>Dependencies</h2>
 <p>Dependencies are installed automatically in the notebook:</p>
 <ul>
   <li>transformers</li>
