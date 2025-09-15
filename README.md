@@ -22,7 +22,7 @@
 └── README.html                     # Documentation
 </pre>
 
-<h2>📝 Example</h2>
+<h2>Example</h2>
 <p><b>Input:</b></p>
 <pre>
 Artificial Intelligence (AI) is rapidly transforming various industries...
