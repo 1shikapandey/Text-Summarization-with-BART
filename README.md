@@ -10,7 +10,10 @@
 
 <h2>Features</h2>
 <ul>
-
+  <li>Runs entirely in <b>Google Colab</b> (no local setup)</li>
+  <li>Uses Hugging Face’s <code>transformers</code> for summarization</li>
+  <li>Evaluation with <b>ROUGE</b> metrics</li>
+  <li>Clean output formatting using Python’s <code>textwrap</code></li>
 </ul>
 
 <h2>Project Structure</h2>
