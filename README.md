@@ -38,7 +38,9 @@ ethical concerns around privacy, bias, and job displacement.
 <h2>Evaluation</h2>
 <p>Summaries are evaluated using <b>ROUGE</b> metrics:</p>
 <pre>
-
+ROUGE-1: 0.45
+ROUGE-2: 0.29
+ROUGE-L: 0.41
 </pre>
 
 <h2>Dependencies</h2>
