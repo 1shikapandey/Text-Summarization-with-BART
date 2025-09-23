@@ -1,9 +1,7 @@
 <h1>Text Summarization with BART: Abstractive NLP Pipeline</h1>
 
 <p>
-  Abstractive text summarization using Facebook's <code>BART-large-CNN</code> model, 
-  implemented in a Google Colab Notebook. Generate concise summaries from long texts 
-  and evaluate them with <b>ROUGE metrics</b>.
+
 </p>
 
 <hr>
